@@ -10,28 +10,28 @@ A frontend application built with **React + Vite + TypeScript** that demonstrate
 ## 📸 Screenshots
 
 ### Homepage — Desktop
-![Homepage Desktop](./screenshots/home-desktop.png)
+![Homepage Desktop](./screen-sharing-app/screenshots/Screenshot%202026-02-21%20111554.png)
 
 ### Homepage — Mobile (Unsupported Browser)
-![Homepage Mobile Unsupported](./screenshots/home-mobile-unsupported.png)
+![Homepage Mobile Unsupported](./screen-sharing-app/screenshots/1771652919179.png)
 
 ### Screen Test — Ready (Idle State)
-![Screen Test Idle](./screenshots/screen-test-idle.png)
+![Screen Test Idle](./screen-sharing-app/screenshots/Screenshot%202026-02-21%20111611.png)
 
 ### Screen Test — Requesting (Picker Open)
-![Screen Test Requesting](./screenshots/screen-test-requesting.png)
+![Screen Test Requesting](./screen-sharing-app/screenshots/Screenshot%202026-02-21%20111810.png)
 
 ### Screen Test — Picker Dialog (Browser Native UI)
-![Picker Dialog](./screenshots/picker-dialog.png)
+![Picker Dialog](./screen-sharing-app/screenshots/Screenshot%202026-02-21%20111644.png)
 
 ### Screen Test — Active (Sharing Live)
-![Screen Test Active](./screenshots/screen-test-active.png)
+![Screen Test Active](./screen-sharing-app/screenshots/Screenshot%202026-02-21%20111706.png)
 
 ### Screen Test — Stopped
-![Screen Test Stopped](./screenshots/screen-test-stopped.png)
+![Screen Test Stopped](./screen-sharing-app/screenshots/Screenshot%202026-02-21%20111734.png)
 
 ### Screen Test — Permission Denied
-![Screen Test Denied](./screenshots/screen-test-denied.png)
+![Screen Test Denied](./screen-sharing-app/screenshots/Screenshot%202026-02-21%20111824.png)
 
 ---
 
